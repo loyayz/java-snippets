@@ -18,5 +18,13 @@
 
     </properties>
 
+    <modules>
+        <module>simple-platform-core</module>
+        <module>simple-platform-generator</module>
+        <module>simple-platform-components</module>
+        <module>simple-platform-admin</module>
+        <module>simple-platform-apps</module>
+    </modules>
+
 
 </project>
