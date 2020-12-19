@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.loyayz.simple.db.autoconfigure.SimpleDataPropertiesAutoConfiguration,\
+com.loyayz.simple.db.autoconfigure.SimpleMybatisPlusAutoConfiguration,\
+com.loyayz.simple.db.autoconfigure.SimpleMybatisPageHelperAutoConfiguration
