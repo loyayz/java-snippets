@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.loyayz.simple.auth.autoconfigure.SimpleAuthAutoConfiguration,\
+com.loyayz.simple.auth.autoconfigure.SimpleAuthWebServletAutoConfiguration
