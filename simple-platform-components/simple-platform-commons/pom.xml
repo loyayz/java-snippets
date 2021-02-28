@@ -24,8 +24,8 @@
         </dependency>
         <dependency>
             <groupId>com.loyayz</groupId>
-            <artifactId>simple-platform-statemachine</artifactId>
-            <version>${project.version}</version>
+            <artifactId>simple-statemachine</artifactId>
+            <version>1.0.1</version>
         </dependency>
         <dependency>
             <groupId>com.loyayz</groupId>
