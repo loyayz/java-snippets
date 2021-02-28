@@ -12,8 +12,8 @@
     <artifactId>simple-platform-commons</artifactId>
 
     <properties>
-        <maven.compiler.source>8</maven.compiler.source>
-        <maven.compiler.target>8</maven.compiler.target>
+        <simple-statemachine.version>1.0.1</simple-statemachine.version>
+        <simple-crud.version>1.0.0</simple-crud.version>
     </properties>
 
     <dependencies>
@@ -25,12 +25,12 @@
         <dependency>
             <groupId>com.loyayz</groupId>
             <artifactId>simple-statemachine</artifactId>
-            <version>1.0.1</version>
+            <version>${simple-statemachine.version}</version>
         </dependency>
         <dependency>
             <groupId>com.loyayz</groupId>
-            <artifactId>simple-platform-db</artifactId>
-            <version>${project.version}</version>
+            <artifactId>simple-crud</artifactId>
+            <version>${simple-crud.version}</version>
         </dependency>
     </dependencies>
 
