@@ -22,7 +22,6 @@
         <module>simple-platform-exception</module>
         <module>simple-platform-trace</module>
         <module>simple-platform-auth</module>
-        <module>simple-platform-oss</module>
         <module>simple-platform-sms</module>
     </modules>
 

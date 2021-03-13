@@ -14,6 +14,7 @@
     <properties>
         <simple-statemachine.version>1.0.1</simple-statemachine.version>
         <simple-crud.version>1.0.0</simple-crud.version>
+        <simple-oss.version>1.0.0</simple-oss.version>
     </properties>
 
     <dependencies>
@@ -31,6 +32,11 @@
             <groupId>com.loyayz</groupId>
             <artifactId>simple-crud</artifactId>
             <version>${simple-crud.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.loyayz</groupId>
+            <artifactId>simple-oss</artifactId>
+            <version>${simple-oss.version}</version>
         </dependency>
     </dependencies>
 
