@@ -14,15 +14,11 @@
     <properties>
         <simple-statemachine.version>1.0.1</simple-statemachine.version>
         <simple-crud.version>1.0.0</simple-crud.version>
-        <simple-oss.version>1.0.0</simple-oss.version>
+        <simple-oss.version>1.0.1</simple-oss.version>
+        <simple-sms.version>1.0.0</simple-sms.version>
     </properties>
 
     <dependencies>
-        <dependency>
-            <groupId>com.loyayz</groupId>
-            <artifactId>simple-platform-exception</artifactId>
-            <version>${project.version}</version>
-        </dependency>
         <dependency>
             <groupId>com.loyayz</groupId>
             <artifactId>simple-statemachine</artifactId>
@@ -37,6 +33,11 @@
             <groupId>com.loyayz</groupId>
             <artifactId>simple-oss</artifactId>
             <version>${simple-oss.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.loyayz</groupId>
+            <artifactId>simple-sms</artifactId>
+            <version>${simple-sms.version}</version>
         </dependency>
     </dependencies>
 

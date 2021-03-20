@@ -19,7 +19,6 @@
 
     <modules>
         <module>simple-platform-commons</module>
-        <module>simple-platform-exception</module>
         <module>simple-platform-trace</module>
         <module>simple-platform-auth</module>
     </modules>
